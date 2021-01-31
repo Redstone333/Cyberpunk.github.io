@@ -1,0 +1,139 @@
+* {
+	//border:1px solid red;
+}
+p {
+
+	//width:750px;
+	//font-size:80px;
+
+}
+/*h10 {
+	position:absolute;
+	width:500px;
+	top:1650px;
+	left:666px;
+	font-size:80px;
+}
+*/
+.menu_el{
+    color:#00D1FF;
+    float:left;
+    margin:0 4%; 
+    font-size:80px;
+} 
+
+header {
+	width:100%;
+	background-color:#FFF500;
+	height:150px;
+}
+
+nav {
+	background-color:#000000;
+	width:100%;
+	height:90px;
+    //margin:0 auto;
+    border: 1px solid blue; 
+    float:left;
+}
+
+article {
+	background-image:url(Основная.jpg);
+	width:100%;
+	height:2800px;
+}
+
+.Z {
+	position:absolute;
+	right:13%;
+	top:30px;
+	
+}
+.K {
+	max-width:1250px;
+	width:100%;
+	height:1200px;
+	margin:3%;
+}
+
+.heading {
+	position:absolute;
+	font-size:70px;
+	top:-30px;
+	left:10%;
+	
+}
+.kybhab {
+	position:absolute;	
+ 	top:1600px;
+ 	left:37%;
+ 	width:700px;
+ 	z-index:4;
+ 	font-size:50px;
+ 	text-align:center;
+ }
+h1 {
+	position:absolute;
+	font-size:70px;
+	top:1500px;
+	left:45%;
+	z-index:3;
+}
+footer {
+	background-image:url(Подвал.jpg);
+	width:100%;
+	height:200px;
+	
+}
+.blue {
+	z-index:1;
+	position:absolute;
+	width:100%;
+	max-width:1333px;
+	height:355px;
+	background-color:#4583DF;
+	top:1540px;
+}
+.GG {
+	position:absolute;
+	z-index:2;
+	left:10px;
+	top:1540px;
+}
+.text1 {
+	position:absolute;
+	top:1920px;
+	left:80px;
+	font-size:30px;
+	
+}
+.text2 {
+	position:absolute;
+	top:2120px;
+	left:80px;
+	font-size:30px;
+}
+.text3 {
+	position:absolute;
+	top:2420px;
+	left:80px;
+	font-size:30px;
+}
+.text4 {
+	position:absolute;
+	top:2720px;
+	left:80px;
+	font-size:30px;
+}
+.VK {
+	margin-top:115px;
+	margin-left:35%;
+}
+.svaz {
+	margin-top:-110px;
+	margin-left:35%;
+}
+.id {
+	margin-left:47%;
+	margin-top:-40px;
+}
